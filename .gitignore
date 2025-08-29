@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+pnpm-debug.log*
+
+# Frontend / Node
+node_modules/
+**/node_modules/
+dist/
+dist-ssr/
+.vite/
+**/.vite/
+
+# Env
+.env
+.env.*.local
+
+# Editor/OS
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
