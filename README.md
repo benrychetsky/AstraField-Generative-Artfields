@@ -1,4 +1,4 @@
-# AstraField-Generative-Artfields
+# AstraField - Generative Artfields
 
 🌌 AstraField
 
